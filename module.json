@@ -1,0 +1,17 @@
+{
+    "alias": "my-module",
+    "icon": "fa fa-cog",
+    "version": "1.0.0",
+    "active": 1,
+    "providers": [
+        "Modules\\MyModule\\Providers\\Event",
+        "Modules\\MyModule\\Providers\\Main"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "reports": [],
+    "widgets": [],
+    "settings": [],
+    "extra-modules": {}
+}
